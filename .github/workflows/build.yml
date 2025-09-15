@@ -24,5 +24,5 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: CoreProtect
-          path: target/CoreProtect 23.0.jar
+          path: target/CoreProtect-23.0.jar
           overwrite: true
